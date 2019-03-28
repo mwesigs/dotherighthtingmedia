@@ -1,1 +1,1 @@
-dotherighthtingmedia
+dotherightthingmedia
