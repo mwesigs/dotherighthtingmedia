@@ -1,9 +1,10 @@
 @media only screen and (max-width: 720px) {
     body {
-        background-color: blue;
+        background-color: black;
         background-image: url("background-phone.jpg");
         background-repeat: no-repeat;
         background-size: cover;
+        object-fit: cover;
     }
   }
 
@@ -13,5 +14,6 @@
         background-image: url("background.jpg");
         background-repeat: no-repeat;
         background-size: cover;
+        object-fit: cover;
     }
   }
